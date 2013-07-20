@@ -108,7 +108,7 @@ for node in complete_graph.nodes_iter():
     outfile.close()
 
     graph = graph_nx2pgv(complete_graph.subgraph(dependency_list))
-    graph.draw("queues/{}.png".format(node), prog="dot")
+    graph.draw("queues/{}.png".format(node), prog="dot", args='-Nstyle="filled" -Nfillcolor="white" -Gbgcolor="transparent"')
 
 for i, (node, n) in enumerate(sorted(dependency_list_sizes.items(), key=lambda a: a[1], reverse=True)):
     infofile.write("Dependency Graph #{}: node \"{}\", number of nodes = {}\n".format(i+1, node, n))
