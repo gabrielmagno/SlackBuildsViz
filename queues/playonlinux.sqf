@@ -1,0 +1,9 @@
+php-imagick
+p7zip
+wxPython
+fontforge
+icoutils
+cabextract
+webcore-fonts
+wine
+playonlinux

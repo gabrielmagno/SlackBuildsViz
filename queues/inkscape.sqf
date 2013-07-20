@@ -1,0 +1,13 @@
+numpy
+gc
+libsigc++
+gsl
+BeautifulSoup
+mm-common
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+lxml
+inkscape

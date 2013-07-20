@@ -1,0 +1,10 @@
+libsigc++
+glibmm
+cairomm
+pangomm
+atkmm
+libtar
+mm-common
+gtkmm
+libglademm
+barry

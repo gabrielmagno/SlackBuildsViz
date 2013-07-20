@@ -1,0 +1,11 @@
+gsl
+pd
+imlib2
+ladspa_sdk
+libquicktime
+jack-audio-connection-kit
+lame
+liblo
+dssi
+speex
+Pd-extended

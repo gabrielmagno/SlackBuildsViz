@@ -1,0 +1,12 @@
+gnome-mime-data
+libgnomecups
+libgnomeprint
+libgnomecanvas
+libgnomeprintui
+ORBit2
+libbonobo
+gnome-vfs
+libgnome
+libbonoboui
+libgnomeui
+gtkhtml

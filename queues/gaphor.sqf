@@ -1,0 +1,11 @@
+pysetuptools
+simplegeneric
+setuptools-git
+decorator
+nose
+gaphas
+zope.event
+zope.interface
+zope.component
+etk.docking
+gaphor

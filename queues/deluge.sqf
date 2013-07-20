@@ -1,0 +1,9 @@
+pysetuptools
+MarkupSafe
+python2-chardet
+zope.interface
+python-twisted
+pyOpenSSL
+pyxdg
+Mako
+deluge

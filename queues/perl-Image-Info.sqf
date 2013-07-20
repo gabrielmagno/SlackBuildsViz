@@ -1,0 +1,1 @@
+perl-Image-Info

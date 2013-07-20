@@ -1,0 +1,4 @@
+mygpoclient
+pysetuptools
+feedparser
+gpodder

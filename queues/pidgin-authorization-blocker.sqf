@@ -1,0 +1,1 @@
+pidgin-authorization-blocker

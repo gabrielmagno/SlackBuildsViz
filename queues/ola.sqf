@@ -1,0 +1,4 @@
+pysetuptools
+cppunit
+protobuf
+ola

@@ -1,0 +1,1 @@
+kfaenza-icon-theme

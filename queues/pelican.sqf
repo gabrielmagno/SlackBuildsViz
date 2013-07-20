@@ -1,0 +1,11 @@
+Markdown
+pysetuptools
+feedgenerator
+Jinja2
+pytz
+docutils
+six
+Unidecode
+blinker
+Pygments
+pelican

@@ -1,0 +1,11 @@
+UFconfig
+CAMD
+COLAMD
+CCOLAMD
+AMD
+metis
+blas
+lapack
+CHOLMOD
+tbb
+SPQR

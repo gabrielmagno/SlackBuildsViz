@@ -1,0 +1,3 @@
+filechunkio
+pysetuptools
+boto

@@ -1,0 +1,1 @@
+heretic_shareware_data

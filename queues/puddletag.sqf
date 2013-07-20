@@ -1,0 +1,4 @@
+pyparsing
+configobj
+mutagen
+puddletag

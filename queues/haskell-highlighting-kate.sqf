@@ -1,0 +1,12 @@
+ghc
+haskell-extensible-exceptions
+haskell-transformers
+haskell-mtl
+haskell-regex-base
+haskell-regex-pcre-builtin
+haskell-text
+haskell-blaze-builder
+haskell-blaze-markup
+haskell-blaze-html
+haskell-parsec
+haskell-highlighting-kate

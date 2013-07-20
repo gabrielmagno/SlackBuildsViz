@@ -1,0 +1,4 @@
+zziplib
+lua
+speex
+alephone

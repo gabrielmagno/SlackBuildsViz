@@ -1,0 +1,5 @@
+pysetuptools
+BeautifulSoup
+lxml
+cssselect
+pyquery

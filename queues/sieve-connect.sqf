@@ -1,0 +1,12 @@
+perl-Socket6
+perl-net-ip
+perl-Net-LibIDN
+perl-TermReadKey
+perl-digest-sha1
+perl-digest-hmac
+perl-net-dns
+Net-SSLeay
+perl-IO-Socket-INET6
+perl-IO-Socket-SSL
+perl-Authen-SASL
+sieve-connect

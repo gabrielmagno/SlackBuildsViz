@@ -1,0 +1,3 @@
+pysetuptools
+protobuf
+php-pinba

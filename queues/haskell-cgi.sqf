@@ -1,0 +1,10 @@
+ghc
+haskell-xhtml
+haskell-extensible-exceptions
+haskell-transformers
+haskell-mtl
+haskell-MonadCatchIO-mtl
+haskell-text
+haskell-parsec
+haskell-network
+haskell-cgi

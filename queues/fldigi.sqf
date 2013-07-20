@@ -1,0 +1,3 @@
+fltk
+portaudio
+fldigi

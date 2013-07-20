@@ -1,0 +1,17 @@
+vala
+qemu
+gtk-vnc
+gnome-mime-data
+yajl
+ORBit2
+urlgrabber
+libvirt
+libbonobo
+tunctl
+rarian
+gnome-vfs
+libgnome
+virtinst
+pyorbit
+gnome-python
+virt-manager

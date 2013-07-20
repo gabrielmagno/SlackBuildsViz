@@ -1,0 +1,9 @@
+webkitgtk
+libgdiplus
+mono
+ndesk-dbus
+ndesk-dbus-glib
+gtk-sharp
+webkit-sharp
+notify-sharp
+sparkleshare

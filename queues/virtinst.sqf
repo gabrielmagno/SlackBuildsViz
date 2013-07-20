@@ -1,0 +1,4 @@
+yajl
+urlgrabber
+libvirt
+virtinst

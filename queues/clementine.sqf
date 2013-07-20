@@ -1,0 +1,4 @@
+qjson
+pysetuptools
+protobuf
+clementine

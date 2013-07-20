@@ -1,0 +1,1 @@
+xmms-skins-almond

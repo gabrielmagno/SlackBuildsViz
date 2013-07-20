@@ -1,0 +1,9 @@
+x264
+faad2
+a52dec
+xvidcore
+lame
+libmp4v2
+faac
+libdca
+avidemux

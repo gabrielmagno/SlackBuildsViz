@@ -1,0 +1,1 @@
+gimp-registry-plugins

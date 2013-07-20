@@ -1,0 +1,9 @@
+x264
+libmpdclient
+id3
+lame
+ffmpeg
+libmp4v2
+faac
+mpc
+ripit

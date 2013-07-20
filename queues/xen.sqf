@@ -1,0 +1,3 @@
+acpica
+yajl
+xen

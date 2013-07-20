@@ -1,0 +1,17 @@
+pyasn1
+pysetuptools
+darcsver
+zbase32
+mock
+pyutil
+zfec
+cryptopp
+pycryptopp
+zope.interface
+python-twisted
+Nevow
+foolscap
+pycrypto
+simplejson
+pyOpenSSL
+allmydata-tahoe

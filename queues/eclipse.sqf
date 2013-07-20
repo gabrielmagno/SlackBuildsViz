@@ -1,0 +1,3 @@
+jdk
+webkitgtk
+eclipse

@@ -1,0 +1,9 @@
+numpy
+pysetuptools
+pytz
+webkitgtk
+pywebkitgtk
+six
+python-dateutil
+matplotlib
+sofastats

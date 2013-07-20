@@ -1,0 +1,9 @@
+perl-extutils-depends
+pcsc-lite
+pcsc-perl
+perl-extutils-pkgconfig
+perl-glib
+perl-cairo
+perl-pango
+perl-gtk2
+pcsc-tools

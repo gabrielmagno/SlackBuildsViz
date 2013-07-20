@@ -1,0 +1,3 @@
+pysetuptools
+nose
+python-spidermonkey

@@ -1,0 +1,11 @@
+html5lib
+PyRSS2Gen
+pysetuptools
+nose
+feedparser
+progressbar
+BeautifulSoup
+pynzb
+SQLAlchemy
+PyYAML
+flexget

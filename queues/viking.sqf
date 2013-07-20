@@ -1,0 +1,3 @@
+scons
+gpsd
+viking

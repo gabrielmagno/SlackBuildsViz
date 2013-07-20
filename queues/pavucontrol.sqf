@@ -1,0 +1,12 @@
+libsigc++
+mm-common
+json-c
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+libglademm
+speex
+pulseaudio
+pavucontrol

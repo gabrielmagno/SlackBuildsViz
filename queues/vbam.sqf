@@ -1,0 +1,12 @@
+libsigc++
+gtkglext
+mm-common
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+gtkglextmm
+OpenAL
+SFML
+vbam

@@ -1,0 +1,10 @@
+blender
+nvidia-kernel
+libvdpau
+FreeImage
+jdk
+cudatoolkit
+opencl-headers
+nvidia-driver
+luxrender
+luxblend25

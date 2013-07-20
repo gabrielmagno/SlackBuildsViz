@@ -1,0 +1,11 @@
+eina
+eet
+evas
+ecore
+e_dbus
+eio
+efreet
+lua
+embryo
+edje
+enlightenment

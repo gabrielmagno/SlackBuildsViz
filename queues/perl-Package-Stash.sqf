@@ -1,0 +1,16 @@
+perl-Try-Tiny
+perl-Test-Fatal
+perl-List-MoreUtils
+perl-Devel-Symdump
+perl-Pod-Coverage
+perl-Test-Pod-Coverage
+perl-Test-Pod
+perl-Sub-Install
+perl-Package-Stash-XS
+perl-Params-Util
+perl-Test-Requires
+perl-Package-DeprecationManager
+perl-Data-OptList
+perl-Sub-Exporter
+perl-Dist-CheckConflicts
+perl-Package-Stash

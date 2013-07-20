@@ -1,0 +1,1 @@
+pasang-emas

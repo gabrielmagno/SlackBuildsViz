@@ -1,0 +1,9 @@
+libsigc++
+wxPython
+mm-common
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+FreeFileSync

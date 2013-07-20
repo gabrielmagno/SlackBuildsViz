@@ -1,0 +1,16 @@
+ORBit2
+libbonobo
+gnome-mime-data
+libgnomecups
+libgnomeprint
+libgnomecanvas
+libgnomeprintui
+goffice
+libofx
+gnome-vfs
+libgnome
+libbonoboui
+libgnomeui
+gtkhtml
+slib
+gnucash

@@ -1,0 +1,11 @@
+ladspa_sdk
+libgig
+lv2
+jack-audio-connection-kit
+jdk
+apache-ant
+liblo
+dssi
+linuxsampler
+jlscp
+JSampler

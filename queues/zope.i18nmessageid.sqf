@@ -1,0 +1,2 @@
+pysetuptools
+zope.i18nmessageid

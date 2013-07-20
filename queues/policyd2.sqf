@@ -1,0 +1,13 @@
+perl-Net-CIDR
+perl-net-ip
+perl-Net-Server
+perl-Cache-FastMmap
+perl-NetAddr-IP
+perl-digest-sha1
+perl-digest-hmac
+perl-net-dns
+perl-List-MoreUtils
+perl-Config-IniFiles
+perl-Net-DNS-Resolver-Programmable
+perl-Mail-SPF
+policyd2

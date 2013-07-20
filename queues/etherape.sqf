@@ -1,0 +1,9 @@
+ORBit2
+gnome-mime-data
+libgnomecanvas
+libbonobo
+gnome-vfs
+libgnome
+libbonoboui
+libgnomeui
+etherape

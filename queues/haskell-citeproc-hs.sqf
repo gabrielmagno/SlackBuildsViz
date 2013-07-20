@@ -1,0 +1,12 @@
+ghc
+haskell-utf8-string
+haskell-extensible-exceptions
+haskell-syb
+haskell-pandoc-types
+haskell-transformers
+haskell-mtl
+haskell-text
+haskell-parsec
+haskell-xml
+haskell-json
+haskell-citeproc-hs

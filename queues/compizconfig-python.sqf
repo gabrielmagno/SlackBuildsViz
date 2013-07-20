@@ -1,0 +1,5 @@
+compiz-bcop
+pysetuptools
+protobuf
+libcompizconfig
+compizconfig-python

@@ -1,0 +1,12 @@
+mjpegtools
+libquicktime
+dvdauthor
+libmspack
+wxPython
+x264
+mpgtx
+lame
+ffmpeg
+wxsvg
+libavc1394
+dvdstyler

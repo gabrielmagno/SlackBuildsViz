@@ -1,0 +1,9 @@
+ladspa_sdk
+libgig
+liblscp
+lv2
+jack-audio-connection-kit
+liblo
+dssi
+linuxsampler
+qsampler

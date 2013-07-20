@@ -1,0 +1,11 @@
+ladspa_sdk
+liblrdf
+libsigc++
+jack-audio-connection-kit
+mm-common
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+guitarix

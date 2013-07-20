@@ -1,0 +1,13 @@
+podofo
+dnspython
+pysetuptools
+mechanize
+netifaces
+cssselect
+psutil
+BeautifulSoup
+six
+python-dateutil
+cssutils
+lxml
+calibre

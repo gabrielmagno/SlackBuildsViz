@@ -1,0 +1,17 @@
+graphviz
+pysetuptools
+pycxx
+fpconst
+gtksourceview
+pygtksourceview
+BeautifulSoup
+lxml
+pyOpenSSL
+jdk
+PyXML
+SOAPpy
+scapy
+PyYAML
+nltk
+pysvn
+w3af

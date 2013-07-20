@@ -1,0 +1,10 @@
+txt2tags
+mjpegtools
+dvdauthor
+x264
+wxPython
+vcdimager
+lame
+ffmpeg
+transcode
+tovid

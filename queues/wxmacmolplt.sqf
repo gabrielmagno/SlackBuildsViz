@@ -1,0 +1,3 @@
+ming
+wxPython
+wxmacmolplt

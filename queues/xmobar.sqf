@@ -1,0 +1,16 @@
+ghc
+haskell-stm
+haskell-hinotify
+haskell-random
+haskell-utf8-string
+haskell-extensible-exceptions
+haskell-transformers
+haskell-mtl
+haskell-syb
+haskell-X11
+haskell-X11-xft
+xmonad
+xmonad-contrib
+haskell-text
+haskell-parsec
+xmobar

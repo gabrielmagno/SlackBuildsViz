@@ -1,0 +1,12 @@
+pysetuptools
+mechanize
+nose
+html2text
+rtmpdump
+BeautifulSoup
+six
+python-dateutil
+lxml
+PyYAML
+feedparser
+weboob

@@ -1,0 +1,6 @@
+pysetuptools
+libsynce
+librapi2
+libmimedir
+librra
+sync-engine

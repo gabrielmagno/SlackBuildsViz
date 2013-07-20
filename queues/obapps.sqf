@@ -1,0 +1,3 @@
+python-xlib
+wxPython
+obapps

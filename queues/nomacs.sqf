@@ -1,0 +1,3 @@
+LibRaw
+opencv
+nomacs

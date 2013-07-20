@@ -1,0 +1,12 @@
+ghc
+haskell-HUnit
+haskell-hxt-charproperties
+haskell-extensible-exceptions
+haskell-hxt-unicode
+haskell-transformers
+haskell-mtl
+haskell-text
+haskell-parsec
+haskell-network
+haskell-hxt-regex-xmlschema
+haskell-hxt

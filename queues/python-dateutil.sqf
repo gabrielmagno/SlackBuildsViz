@@ -1,0 +1,3 @@
+six
+pysetuptools
+python-dateutil

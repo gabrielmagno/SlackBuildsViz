@@ -1,0 +1,12 @@
+libmirage
+gnome-mime-data
+vhba-module
+cdemu-daemon
+ORBit2
+pygobject3
+libbonobo
+gnome-vfs
+libgnome
+pyorbit
+gnome-python
+gcdemu
