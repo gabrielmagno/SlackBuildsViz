@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# coding=utf-8
+
 import json
 import re
 import collections
@@ -90,10 +93,11 @@ for i, (n, subgraph) in enumerate(sorted(subgraphs.items(), key=lambda a: a[0]))
     infofile.write("Weakly Connected Components #{}: components size = {}, total number of nodes = {}\n".format(i+1, n, len(subgraph)))
     graph = graph_nx2pgv(subgraph)
     if n == 1:
-        graph.draw("figs/wcc_{}.pdf".format(i), prog="sfdp")
+        graph.draw("figs/wcc_{}.pdf".format(i+1), prog="sfdp")
     else:
-        graph.draw("figs/wcc_{}.pdf".format(i), prog="dot")
-
+        graph.draw("figs/wcc_{}.pdf".format(i+1), prog="dot")
+import sys
+sys.exit()
 
 # Draw dependency graphs
 
