@@ -90,14 +90,12 @@ for i, component in enumerate(components):
         subgraphs[len(component)].add_edge(node_a, node_b)
 
 for i, (n, subgraph) in enumerate(sorted(subgraphs.items(), key=lambda a: a[0])):
-    infofile.write("Weakly Connected Components #{}: components size = {}, total number of nodes = {}\n".format(i+1, n, len(subgraph)))
+    infofile.write("Weakly Connected Components #{}: {} components of size {}, total number of nodes = {}\n".format(i+1, len(subgraph)/n, n, len(subgraph)))
     graph = graph_nx2pgv(subgraph)
     if n == 1:
         graph.draw("figs/wcc_{}.pdf".format(i+1), prog="sfdp")
     else:
         graph.draw("figs/wcc_{}.pdf".format(i+1), prog="dot")
-import sys
-sys.exit()
 
 # Draw dependency graphs
 
