@@ -106,7 +106,7 @@ for node in complete_graph.nodes_iter():
     dependency_list_sizes[node] = len(dependency_list)
    
     outfile = open("queues/{}.sqf".format(node), "w")
-    outfile.write("\n".join(dependency_list))
+    outfile.write("\n".join(dependency_list)+"\n")
     outfile.close()
 
     graph = graph_nx2pgv(complete_graph.subgraph(dependency_list))
